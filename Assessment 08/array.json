@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Mahendra Singh Dhoni",
+        "speciality": "Batsman/Wicket Keeper",
+        "gender": "Male",
+        "team": "India",
+        "rank": "1"
+    }, 
+    {
+        "name": "Virat Kohli",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "India",
+        "rank": "2"
+    },
+    {
+        "name": "Kane Williamson",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "New Zealand",
+        "rank": "3"
+    },
+    {
+        "name": "Steve Smith",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "Australia",
+        "rank": "15"
+    }, 
+    {
+        "name": "Julan Goswami",
+        "speciality": "Bowler",
+        "gender": "Female",
+        "team": "India",
+        "rank": "1"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "speciality": "Bowler",
+        "gender": "Male",
+        "team": "India",
+        "rank": "5"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "India",
+        "rank": "12"
+    },
+    {
+        "name": "Jethalal Champklal Gada",
+        "speciality": "All Rounder",
+        "gender": "Male",
+        "team": "India",
+        "rank": "3"
+    },
+    {
+        "name": "Rohit Sharma",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "India",
+        "rank": "50"
+    },
+    {
+        "name": "Babar Azam",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "Pakistan",
+        "rank": "55"
+    }
+]
