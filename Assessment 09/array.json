@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Mahendra Singh Dhoni",
+        "speciality": "Batsman/Wicket Keeper",
+        "gender": "Male",
+        "team": "India",
+        "rank": "1",
+        "date": "1985-07-07"
+    }, 
+    {
+        "name": "Virat Kohli",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "India",
+        "rank": "2",
+        "date": "1989-05-12"
+    },
+    {
+        "name": "Kane Williamson",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "New Zealand",
+        "rank": "3",
+        "date": "1988-02-25"
+    },
+    {
+        "name": "Steve Smith",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "Australia",
+        "rank": "15",
+        "date": "1991-07-02"
+    }, 
+    {
+        "name": "Julan Goswami",
+        "speciality": "Bowler",
+        "gender": "Female",
+        "team": "India",
+        "rank": "1",
+        "date": "1995-08-13"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "speciality": "Bowler",
+        "gender": "Male",
+        "team": "India",
+        "rank": "5",
+        "date": "1993-04-14"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "India",
+        "rank": "12",
+        "date": "1985-07-07"
+    },
+    {
+        "name": "Jethalal Champklal Gada",
+        "speciality": "All Rounder",
+        "gender": "Male",
+        "team": "India",
+        "rank": "3",
+        "date": "1985-05-25"
+    },
+    {
+        "name": "Rohit Sharma",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "India",
+        "rank": "50",
+        "date": "1988-12-07"
+    },
+    {
+        "name": "Babar Azam",
+        "speciality": "Batsman",
+        "gender": "Male",
+        "team": "Pakistan",
+        "rank": "55",
+        "date": "1995-01-08"
+    }
+]
