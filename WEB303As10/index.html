@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>
+        <!-- your name goes here -->
+        Rishi Patel
+    </h1>
+    
+    <form method="POST" action="https://php.scweb.ca/formsubmit" name="form" id="form" novalidate>
+        <div  id="main">
+        <fieldset>
+            <h2>Settings</h2>
+            <div class="uname">
+                <label for="uname" class="required">User Name:</label>
+                <input type="text" placeholder="Enter your User name" name="uname" id="uname" required
+                    title="Please enter your name">
+            </div>
+
+            <div class="password">
+                <label for="password" class="required">Password:</label>
+                <input type="password" name="password" id="password" required>
+                <!-- <input type="checkbox" id="showPwd">
+                <label for="showPwd">show password</label> -->
+              </div>
+              <div class="password">
+                <label for="conf-password" class="required">Confirm password:</label>
+                <input type="password" name="conf-password" id="confpassword" required>
+              
+              </div>
+
+              <label for="count">countries</label>
+              <select id="count" name="count">
+                <option value="" id="op">Please choose a country</option>
+              </select>
+            <div id="consent-container" class="">
+                <label for="parents-consent">Accept terms and conditions</label>
+                <input type="checkbox" name="parents-consent" id="checkbox" value="checked">
+            </div>
+        </fieldset>
+        <input id="submit" type="submit" value="submit" />
+        </div>
+    </form>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
